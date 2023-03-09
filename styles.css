@@ -27,12 +27,12 @@ html{
     color: white;
 }
 
-.title-container{
-    width: 500px;
-    height: 100px;
-    background-color: white;
-    position: absolute;
-    color: lightgrey;
+.menu-container{
+    width: 100%;
+    height: 100vh;
+    font-size: 1.5rem;
+    background-color: #664229;
+    color: white;
 }
 
 .container{
