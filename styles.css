@@ -27,14 +27,31 @@ html{
     color: white;
 }
 
-.menu-container{
+.menu-title-container{
+    display: block;
     width: 90%;
     height: 100vh;
     margin-top: 50px;
     margin-bottom: 50px;
     font-size: 1.5rem;
     background-color: #664229;
-    color: white;
+    color: #E5D3B3;
+    overflow: hidden;
+}
+
+.menu-title{
+    width: 100%;
+    margin: auto;
+    background-color: #E5D3B3;
+    height: 20px;
+}
+
+.coffee-container ul li{
+    display: block;
+    width: 100%;
+    float:left;
+    margin: 5px;
+    overflow: hidden;
 }
 
 .container{
